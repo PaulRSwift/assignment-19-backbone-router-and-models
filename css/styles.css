@@ -369,7 +369,8 @@ textarea {
 
 img {
   width: 100%;
-  display: block; }
+  display: block;
+  border: solid #bbb 2px; }
 
 body {
   font-family: 'Abhaya Libre', 'Palatino', serif; }
